@@ -29,6 +29,10 @@ Year | Degree | University
 
 ---
 
+## Contact
+
+[Twitter](https://x.com/trngbich) | [Linkedin](https://www.linkedin.com/in/trngbich/) | [ResearchGate](https://www.researchgate.net/profile/Bich-Tran-9) 
+
 
 > How you do anything is how you do everything
 
