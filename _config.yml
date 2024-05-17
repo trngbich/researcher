@@ -1,6 +1,6 @@
 title: Bich N. Tran
 url: "https://trngbich.github.io"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "#about-me"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
