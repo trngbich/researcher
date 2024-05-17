@@ -6,40 +6,30 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a PhD candidate at Land and Water Management department, IHE Delft Instute for Water Education, the Netherlands. Having a background in Environmental Science, postgraduate study in Water Resources Engineering focusing on Earth Observation applications, and diverse volunteering experiences in environment and education projects, I'm interested in interdisciplinary research and applications towards a sustainable society.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Sustainable Development | Water Resources Engineering | Remote Sensing | Open Science 
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. **Tran, B.N.**, Van Der Kwast, J., Seyoum, S., Uijlenhoet, R., Jewitt, G. and Mul, M., 2023. Uncertainty assessment of satellite remote-sensing-based evapotranspiration estimates: a systematic review of methods and gaps. Hydrology and Earth System Sciences, 27(24), pp.4505-4528.
+2. Yalew, S.G., van der Zaag, P., **Tran, B.N.**, Michailovsky, C.I.B., Salvadore, E., Borgomeo, E., Karimi, P., Pareeth, S., Seyoum, S.D. and Mul, M.L., 2023. Open-access remote sensing data for cooperation in transboundary water management. Water International, 48(8), pp.955-974.
 
-## Typography
+## Education
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
-
-Year | Award | Category
+Year | Degree | University
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2018 | MSc. Water Resources Engineering  | KU Leuven & VU Brussels, Belgium
+2015 | BSc. Water - Environment - Oceanography | University of Science and Technology of Hanoi, Vietnam
 
-Here is a horizontal rule
 
 ---
 
-Here is a blockquote
 
-> To a great mind, nothing is little
+> How you do anything is how you do everything
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
