@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="trngbich.jpg">
 
 Hi! I am a PhD candidate at Land and Water Management department, IHE Delft Instute for Water Education, the Netherlands. Having a background in Environmental Science, postgraduate study in Water Resources Engineering focusing on Earth Observation applications, and diverse volunteering experiences in environment and education projects, I'm interested in interdisciplinary research and applications towards a sustainable society.
 
